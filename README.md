@@ -9,5 +9,5 @@ Users can either list all packages deployed in an environment, or they can see a
 The application is currently designed to reach three environments, but that can be easily adjusted to meet each user's need.
 
 ## Packages used
-* Requests
-* PrettyTable
+* Requests - Excellent tool for API requests. Because Actian uses digest authentication on its API, this saved a lot of headaches.
+* PrettyTable - Used to format the table within the terminal for a more readable presentation.
